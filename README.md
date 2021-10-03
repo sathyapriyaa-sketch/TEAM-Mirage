@@ -1,8 +1,7 @@
 # TOI-AD
-Transdermal Optical Imaging - Atopic Dermatitis
+Transdermal Optical Imaging 
 Author: TEAM - MIRAGE
 
-The purpose of this project is to use transdermal optical imaging (TOI) to score atopic dermatitis quantitatively.
 
 # Set Up exhibit.py
 1. Be sure python is properly installed on computer.
