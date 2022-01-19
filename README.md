@@ -11,3 +11,7 @@ Author: TEAM - MIRAGE
 5. Program will execute 
 6. Press 'q' to close window and stop program.
 7. Output will be in directory folder as "output.avi"
+
+# Demo
+Check this video in link upto 2 mins 17 sec to understand it's execution.
+link : 
